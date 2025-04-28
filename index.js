@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('push to docker hub');
+  res.send('welcome to docker hub');
 
 });
 
